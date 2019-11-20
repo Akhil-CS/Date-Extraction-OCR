@@ -3,7 +3,8 @@
 The below API is used to extract date from a receipt image 
 
 Rest API :-
-Input : Base 64 Image Data 
+Input : Base 64 Image Data
+
 Output : Extracted Date
 
 Postman Collection :
